@@ -1,0 +1,47 @@
+commit 0f1777d57955cb936c62807ff70bcab420bffa43
+Author: Saljooq <altaf.saljooq@outlook.com>
+Date:   Thu Mar 11 21:51:29 2021 -0600
+
+    minor formatting changes, added comments, updated makefile and wrote the readme
+
+commit 08fae7b3c92f7d138648bb765e81d3d2b4472d01
+Author: Saljooq <altaf.saljooq@outlook.com>
+Date:   Thu Mar 11 21:30:33 2021 -0600
+
+    Random dungeon generator function for moving through the stairs generated
+
+commit b0a81e879fb81e927d3af3904d34433bfbc63001
+Author: Saljooq <altaf.saljooq@outlook.com>
+Date:   Thu Mar 11 20:27:39 2021 -0600
+
+    Completed the monsters board that gets activated with m key, this display the distance relative to the pc as well
+
+commit cb5d9910c1622e69d1dadfd6a8d9195f45ad1246
+Author: Saljooq <altaf.saljooq@outlook.com>
+Date:   Thu Mar 11 17:55:48 2021 -0600
+
+    Logic for non-digging nature of PC corrected, also error messages added for unrecognised entries or when up against wall or the esge
+
+commit adbb0c5c1952a8d1322747d1475cc358fc708c61
+Author: Saljooq <altaf.saljooq@outlook.com>
+Date:   Thu Mar 11 03:17:33 2021 -0600
+
+    basic directions added to the game
+
+commit 25ece63ea18423e4dbbe33d8a743fa34837e4d30
+Author: Saljooq <altaf.saljooq@outlook.com>
+Date:   Thu Mar 11 02:39:40 2021 -0600
+
+    Completed testing of keys, have yet to integrate it with the code
+
+commit f7f85a22cd71f47b9a4f522169394e910a9571d0
+Author: Saljooq <altaf.saljooq@outlook.com>
+Date:   Wed Mar 10 03:15:00 2021 -0600
+
+    print methods edited, ncurses.h added, old project imported and new method indicated to print victory/loss message
+
+commit 8442b0593ebbd73cde1756737d4f5378875669f4
+Author: Saljooq <75107181+Saljooq@users.noreply.github.com>
+Date:   Wed Mar 10 04:11:11 2021 -0500
+
+    Initial commit
